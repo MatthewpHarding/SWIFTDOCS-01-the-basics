@@ -775,7 +775,7 @@ You can use the `fatalError(_:file:line:)` function during prototyping and early
 ## The End
 Taken from **official Swift** documentation found [here ](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
 
-- 🔍 We made the **official Swift documentation** [searchable!](https://github.com/MatthewpHarding?tab=repositories). 
+- 🔍 We made the **official Swift documentation** [searchable](https://github.com/MatthewpHarding?tab=repositories). 
 
 - 🕊 All official documentation begins with `SWIFTDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS).
 

@@ -22,7 +22,7 @@ Finding your current version of Swift is easy. Just follow the steps below:
 ## The End
 Taken from **official Swift** documentation found [here ](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
 
-- 🔍 We made the **official Swift documentation** [searchable!](https://github.com/MatthewpHarding?tab=repositories). 
+- 🔍 We made the **official Swift documentation** [searchable](https://github.com/MatthewpHarding?tab=repositories). 
 
 - 🕊 All official documentation begins with `SWIFTDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS).
 
