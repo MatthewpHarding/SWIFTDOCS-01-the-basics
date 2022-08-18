@@ -1,10 +1,10 @@
 ![Swift](swift-logo.png)
 
-Swift v5.7 [official docs](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+Swift v5.7 | [different versions](find-my-swift-version.md) | [Swift.org](https://docs.swift.org) 
 
-Taken from **official Swift** documentation found [here ](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
+Taken from the [official Swift documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
 
-✔️ Editable Swift .playground files included.
+✔️ Editable Swift Xcode .playground files included.
 
 # 1. The Basics
 
