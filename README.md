@@ -4,9 +4,22 @@ Swift v5.7 | [different versions](find-my-swift-version.md) | [Swift.org](https:
 
 Taken from the [official Swift documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
 
-✔️ Editable Swift Xcode .playground files included.
+![Xcode Playground](xcode-icon.png)
+![Swift Playground Icon](playground-file.png)
 
-# 1. The Basics
+👉 You can [view this document in a Swift playground](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip) 🛝 to freely edit each coding example.
+
+1. [Clone the repo](x-github-client://openRepo/https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics) | [Download files](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip)
+2. View both code and text written in markup language by enabling toolbar/Editor/**Show Rendered Markup**
+3. Learn Swift by writing code  🎉
+
+Learn the `Swift` programming language by [downloading](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip) these files.
+
+```Swift
+let myLife = [learning, coding, happiness] 
+```
+### 🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️
+# Page 1. The Basics
 
 Swift is a new programming language for iOS, macOS, watchOS, and tvOS app development. Nonetheless, many parts of Swift will be familiar from your experience of developing in C and Objective-C.
 
@@ -43,9 +56,9 @@ You can declare multiple constants or multiple variables on a single line, separ
 ```Swift
 var x = 0.0, y = 0.0, z = 0.0
 ```
-### NOTE
-  
-→ If a stored value in your code won’t change, always declare it as a constant with the let keyword. Use variables only for storing values that need to be able to change.
+>Note
+> 
+>→ If a stored value in your code won’t change, always declare it as a constant with the let keyword. Use variables only for storing values that need to be able to change.
 
 ### Type Annotations
  
@@ -781,8 +794,6 @@ Taken from **official Swift** documentation found [here ](https://docs.swift.org
 👉 [A Guided Tour of Swift](https://github.com/MatthewpHarding/a-tour-of-swift) 
 
 # 🤷🏼‍♂️
-
-
 
 @[MatthewpHarding](https://github.com/MatthewpHarding) 🔗
 
