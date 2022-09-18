@@ -1,11 +1,11 @@
-![Swift](swift-logo.png)
+![Swift](readme-images/swift-logo.png)
 
 Swift v5.7 | [different versions](find-my-swift-version.md) | [Swift.org](https://docs.swift.org).
 
 Taken from the [official Swift documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
 
-![Xcode Playground](xcode-icon.png)
-![Swift Playground Icon](playground-file.png)
+![Xcode Playground](readme-images/xcode-icon.png)
+![Swift Playground Icon](readme-images/playground-file.png)
 
 👉 You can [view this document in a Swift playground](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip) to freely edit each coding example.
 
