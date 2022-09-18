@@ -1,19 +1,19 @@
 ![Swift](swift-logo.png)
 
-Swift v5.7 | [different versions](find-my-swift-version.md) | [Swift.org](https://docs.swift.org) 
+Swift v5.7 | [different versions](find-my-swift-version.md) | [Swift.org](https://docs.swift.org).
 
 Taken from the [official Swift documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
 
 ![Xcode Playground](xcode-icon.png)
 ![Swift Playground Icon](playground-file.png)
 
-👉 You can [view this document in a Swift playground](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip) 🛝 to freely edit each coding example.
+👉 You can [view this document in a Swift playground](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip) to freely edit each coding example.
 
-1. [Clone the repo](x-github-client://openRepo/https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics) | [Download files](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip)
-2. View both code and text written in markup language by enabling toolbar/Editor/**Show Rendered Markup**
-3. Learn Swift by writing code  🎉
+1. [Clone the repo](x-github-client://openRepo/https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics) or [Download the files](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip).
+2. View the code and nicely formatted markup language by selecting Editor/**Show Rendered Markup**.
+3. Read, edit and play with each code sample!  🎉
 
-Learn the `Swift` programming language by [downloading](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip) these files.
+Learn `Swift` by [downloading](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip) this Swift playground.
 
 ```Swift
 let myLife = [learning, coding, happiness] 
