@@ -16,7 +16,7 @@ Taken from the [official Swift documentation](https://docs.swift.org/swift-book/
 
 **Step 3:** You can edit the code within Xcode!  🎉
 
-*..let's live a better life, by learning Swift 🛠* 
+🤩 *..let's live a better life, by learning Swift* 🛠
 
 ```Swift
 let myLife = [learning, coding, happiness] 
@@ -802,7 +802,7 @@ Taken from **official Swift** documentation found [here ](https://docs.swift.org
 @[MatthewpHarding](https://github.com/MatthewpHarding) 🔗
 
 
-Teaching the `Swift` programming language.
+🤩 *..let's live a better life, by learning Swift* 🛠
 
 ```Swift
 let myLife = [learning, coding, happiness] 
