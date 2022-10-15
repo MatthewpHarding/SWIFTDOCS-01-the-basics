@@ -10,7 +10,7 @@ Taken from the [official Swift documentation](https://docs.swift.org/swift-book/
 👉 You can [view this document in Xcode](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip) to run and edit each example.
 ## Run This File In Xcode
 
-**Step 1:** [Clone](x-github-client://openRepo/https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics) this repo or [Download](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip) the files.
+**Step 1:** Clone this repo or [Download the files](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip).
 
 **Step 2:** In Xcode, ensure you have selected **Editor/Show Rendered Markup** to view the formatted instructions.
 
