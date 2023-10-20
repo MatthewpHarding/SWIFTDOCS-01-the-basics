@@ -200,9 +200,9 @@ Floating-point numbers are numbers with a fractional component, such as 3.14159,
 
 Floating-point types can represent a much wider range of values than integer types, and can store numbers that are much larger or smaller than can be stored in an `Int`. Swift provides two signed floating-point number types:
 
-`Double` represents a 64-bit floating-point number.
+* `Double` represents a 64-bit floating-point number.
 
-`Float` represents a 32-bit floating-point number.
+* `Float` represents a 32-bit floating-point number.
 
 > Note
 > 
@@ -246,13 +246,13 @@ The literal value of 3 has no explicit type in and of itself, and so an appropri
 
 Integer literals can be written as:
 
-A decimal number, with no prefix
+* A decimal number, with no prefix
 
-A binary number, with a 0b prefix
+* A binary number, with a 0b prefix
 
-An octal number, with a 0o prefix
+* An octal number, with a 0o prefix
 
-A hexadecimal number, with a 0x prefix
+* A hexadecimal number, with a 0x prefix
 
 All of these integer literals have a decimal value of 17:
 
@@ -267,15 +267,15 @@ Floating-point literals can be decimal (with no prefix), or hexadecimal (with a 
 
 For decimal numbers with an exponent of exp, the base number is multiplied by 10exp:
 
-1.25e2 means 1.25 x 102, or 125.0.
+* 1.25e2 means 1.25 x 102, or 125.0.
 
-1.25e-2 means 1.25 x 10-2, or 0.0125.
+* 1.25e-2 means 1.25 x 10-2, or 0.0125.
 
 For hexadecimal numbers with an exponent of exp, the base number is multiplied by 2exp:
 
-0xFp2 means 15 x 22, or 60.0.
+* 0xFp2 means 15 x 22, or 60.0.
 
-0xFp-2 means 15 x 2-2, or 3.75.
+* 0xFp-2 means 15 x 2-2, or 3.75.
 
 All of these floating-point literals have a decimal value of 12.1875:
 
@@ -764,8 +764,8 @@ You can also call the `preconditionFailure(_:file:line:)` function to indicate t
 > Note
 > 
 >→ If you compile in unchecked mode `(-Ounchecked)`, preconditions aren’t checked. The compiler assumes that preconditions are always true, and it optimizes your code accordingly. However, the `fatalError(_:file:line:)` function always halts execution, regardless of optimization settings.
-
-You can use the `fatalError(_:file:line:)` function during prototyping and early development to create stubs for functionality that hasn’t been implemented yet, by writing `fatalError("Unimplemented")` as the stub implementation. Because fatal errors are never optimized out, unlike assertions or preconditions, you can be sure that execution always halts if it encounters a stub implementation.
+> 
+> You can use the `fatalError(_:file:line:)` function during prototyping and early development to create stubs for functionality that hasn’t been implemented yet, by writing `fatalError("Unimplemented")` as the stub implementation. Because fatal errors are never optimized out, unlike assertions or preconditions, you can be sure that execution always halts if it encounters a stub implementation.
 
 -------------------
 
